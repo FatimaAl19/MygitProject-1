@@ -1,14 +1,14 @@
-number = int(input("Enter a number: ")
+number = int(input("Enter a number: ")) 
 if number > 0: 
-print("number is postive")
-if number % 2 == 0:
-    print("the number is even")
-else
-    print("the number is odd")
- 
+    print("The number is positive")
+    if number % 2 == 0:
+        print("The number is even")
+    else:
+        print("The number is odd") 
 elif number < 0: 
-print("number is negative")
- print(f"the cube of the number is {number ** 3}")
-else: print("the number was zero")
-print the absolute value of the number
-print(f"the absolute value of number is {abs(numbers)}")
+    print("The number is negative")
+    print(f"The cube of the number is {number ** 3}")  
+else: 
+    print("The number was zero")
+print(f"The absolute value of the number is {abs(number)}")  
+
