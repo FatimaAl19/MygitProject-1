@@ -16,7 +16,7 @@ Displays the absolute value of the number.
 
 Roles:
 
-Mays: Implemented the number classification logic (positive, negative, zero). 
+Fatima: Implemented the number classification logic (positive, negative, zero). 
 
 Fatima: Implemented even/odd checking and absolute value calculation. 
 
